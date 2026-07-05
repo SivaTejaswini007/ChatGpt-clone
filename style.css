@@ -153,7 +153,7 @@ box-shadow:1px 2px 3px rgba(141, 139, 139, 0.11);
     width:40px;
    }
    .s{
-    width:20px;
+    width:30px;
    }
     .note{
         position:fixed;
@@ -164,7 +164,7 @@ box-shadow:1px 2px 3px rgba(141, 139, 139, 0.11);
     }
     .search{
         position:fixed;
-        left:9px;
+        left:5px;
         top:120px;
         border:none;
          background-color:rgba(141, 139, 139, 0.03);
